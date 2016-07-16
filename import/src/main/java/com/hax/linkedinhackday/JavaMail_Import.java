@@ -44,7 +44,7 @@ public class JavaMail_Import {
                     new javax.mail.Authenticator() {
                         protected PasswordAuthentication getPasswordAuthentication() {
                             return new PasswordAuthentication(
-                                    "1465340@gmail.com", "fourteenthtarget");
+                                    "1465340@gmail.com", "*******");
                         }
                     });
             // emailSession.setDebug(true);
@@ -89,7 +89,7 @@ public class JavaMail_Import {
         String host = "pop.gmail.com";// change accordingly
         String mailStoreType = "pop3";
         String username = "1465340@gmail.com";// change accordingly
-        String password = "fourteenthtarget";// change accordingly
+        String password = "*******";// change accordingly
 
         check(host, mailStoreType, username, password);
 
