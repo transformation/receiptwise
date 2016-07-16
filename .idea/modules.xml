@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Receiptwise.iml" filepath="$PROJECT_DIR$/Receiptwise.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import/import.iml" filepath="$PROJECT_DIR$/import/import.iml" />
     </modules>
   </component>
 </project>

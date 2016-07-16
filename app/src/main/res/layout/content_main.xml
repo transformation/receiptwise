@@ -14,7 +14,7 @@
     tools:context=".MainMenu">
 
     <TextView
-        android:text="Hello World!"
+        android:text="This is the main menu, probably"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
